@@ -72,10 +72,10 @@ Screenshots are stored in the `Visuals` folder:
 ---
 
 ## 📂 Project Links
-- [Part 1: SQL Analysis](#)  
-- [Part 2: Interactive Dashboards](#)  
-- [Part 3: Leadership KPIs](#)  
-- **Part 4: Public Monitoring Dashboard (This Repo)**  
+- [Part 1: SQL Analysis](https://github.com/Slyza13/Data-Visualization-Project-1)  
+- [Part 2: Interactive Dashboards](https://github.com/Slyza13/Data-Visualization-Project-2)  
+- [Part 3: Leadership KPIs](https://github.com/Slyza13/Data-Visualization-Project-3)  
+- **Part 4: Public Monitoring Dashboard (This Repo: https://github.com/Slyza13/Data-Visualization-Project-4)**  
 
 ---
 
